@@ -8,3 +8,6 @@ Pau "Ando haciendo el word"
 
 Angel ":("
 Angel "Porfavor jala"
+
+Angel ":)"
+Angel "Ya jalo"
